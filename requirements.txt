@@ -1,0 +1,15 @@
+streamlit
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+lightgbm
+folium
+streamlit-folium
+openpyxl
+reportlab
+twilio
